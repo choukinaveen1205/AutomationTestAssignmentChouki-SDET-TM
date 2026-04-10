@@ -25,4 +25,4 @@ Test --Run ALL
 
 packages:
 ------------------------------------------------
-
+Selenium.WebDriver Selenium.WebDriver.ChromeDriver SpecFlow SpecFlow.NUnit NUnit NUnit3TestAdapter Microsoft.NET.Test.Sdk FluentAssertions
