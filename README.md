@@ -4,6 +4,18 @@ Application Under Test
 --------------------------------------
 https://automationteststore.com/
 
+Dependecies
+----------------------------
+Selenium.WebDriver
+Selenium.WebDriver.ChromeDriver
+SpecFlow
+SpecFlow.NUnit
+NUnit
+NUnit3TestAdapter
+Microsoft.NET.Test.Sdk
+FluentAssertions
+
+
 Test Coverage
 ---------------------------
 Flow 1 – Login
@@ -31,3 +43,7 @@ Hooks
 Pages
 StepDefinitions
 Features
+
+Exceution:
+-----------------------
+Click on Test>> run all tests
